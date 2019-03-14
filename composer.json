@@ -3,7 +3,7 @@
   "description": "quiz",
   "type": "project",
   "require": {
-    "php": "~7.1.0",
+    "php": "~5.6.0",
     "monolog/monolog": "1.*",
     "psr/log": "1.*"
   },
